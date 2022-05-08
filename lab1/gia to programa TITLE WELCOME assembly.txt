@@ -1,0 +1,46 @@
+
+
+3 H odhgia: den mas peirazei an eiai prin h meta apo to programma.
+
+5 arxikopoihsh dedomenwn
+6 pali arxikopoiish dedomenwn
+
+8 Emfanizei to mnm mas
+9 Emfanizei to mnm mas
+10 Emfanizei to mnm mas | INT(ERAPT) allazei thn dieuthinsh me bash to pou einai to 21Hdex .
+
+
+13 epistrofh sto leitourgiko 
+14 epistrofh sto leitourgiko
+
+
+
+18 ta dedomena mporoun na eiai eite prin eite meta apo to programma
+
+
+
+
+
+24 telos tou programmatos.
+//
+
+Me to pou kanoume run to arxeio, tote kanei ton sintaktiko elegxo prwta kai meta ton logiko.
+An exoume sintaktiko lathos tote emfanizei error to prwto parathuro, an den yparxei tote to pernaei kai
+emfanizei allo parathuro. Meta airnoume to mnm pou mas leei an ola pphgan kala h oxi.
+
+To screen koumpi emfanizei to black screen kai sorce to allo parathuro.
+to ; einai gia to sxolio. Px "; END" to end einai sxolio.
+
+An balw sxolio to END, bgazei oti exei INTERAPT sthn seira 10, leei oti den brhke to dollario, enw to exoume.
+To idio mnm emfanizei omws kai an pragmati den emfanizei to dollario. 
+Opote an leei oti leipei to dollario (ascii 31) tote koitaw an einai ola ta dollaria ekei, kai an einai
+tote meta tsekarw an pane ola okay me to END (pou px twra einai sthn grammh 24).
+
+Den einai key sencitive h glwssa, mporoume na grafoume eite mikra eite megala, einai ola okay.
+
+o programm prepei na epistrefei omala sto leitourgiko sustima. Auto ginete me tis 2 teleutaies entoles, thn 13 kai 14.
+
+-Software diakoph: px pataw to koumpi shut down apo thn arxikh.
+-Hardware diakoph: px pataw to plhktro sto kouti tou upologisth gia na anoiksei o upologisths.
+
+Sthn seira 20, to $ bohthaei sto na stamatisei thn ekthwsh otan dei auto to sumbolo.

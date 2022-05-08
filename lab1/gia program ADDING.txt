@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+8-10, bgazei mono to 8
+
+
+
+12+13, bgazei to mnm einai T
+
+
+15-18 emfanizei to 8, dld leei mono "to athrisma einai"
+
+
+
+
+
+
+
+
+
+
+
+
+MINIMA DB 10,13"TO ATHISMA EINAI: ",10,13,"$"
+
+
+
+32 TELOS
+
+Variables: Gia na doume se ti ascii antistixei?
+Sto line 8, auto pou ekana einai na allaksw grammh.
+To 13 se paei sthn prwth stilh. Px sthn arxh den xreiazete to 13 epeidi ksekinaei apo thn arxh. Apo
+thn allh ama to bgalw meta apla tha to paei mia seira meta alla den tha to paei to 8 sthn arxh, tha to
+emfanisei sthn idia stilh. An balw meta mono to 13, tha antikathastisei (over write) oti upirxe sthn
+prwth sthlh.
+
+An o arithmos einai dipsifios tote allazei to thema.
